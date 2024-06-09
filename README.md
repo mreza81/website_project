@@ -4,3 +4,11 @@
 قرار داده شده است.
 لینک توضیحات پروژه:https://drive.google.com/drive/folders/1b6tVvP5fvVsscc6z6NjQRcj7GZqHUt42?usp=sharing
 
+  و همچینین تصاویر از پایگاه داده مورد استفاده هم قرار داده شده است.
+  1_ تمام موجدیت های مورد استفاده:
+![image](https://github.com/mreza81/website_project/assets/124530312/46fbe736-35cd-4cf4-a22e-4d25384653f5)
+و فیلدهای مورد استفاده در موجودیت posts:
+![image](https://github.com/mreza81/website_project/assets/124530312/cccfa214-15de-477f-a7bd-66b48ddb2cfd)
+و فیلد های مورد استفاده در موجودیت users:
+![image](https://github.com/mreza81/website_project/assets/124530312/b5d400ae-1edd-47ab-8fcd-f450273f182c)
+نکته: این موجودیت ها در phpMyAdmin سیستم من موجود است برای استفاده کردن از این وبسایت نیاز است که شما این موجودیت ها را اضافه کنید در پایگاه داده خودتان.
