@@ -84,10 +84,11 @@ if (isset($_POST['email']) && $_POST['email'] !== '' &&
                             </div>
                             <p class="do-you-have">
                                 حساب کاربری ندارید؟
-                                <a href="signup.php">ثبت نام کنید</a>
+                                <a href="sign-up.php">ثبت نام کنید</a>
                             </p>
                             <div class="submit-btn-container">
                                 <input name="sub" value="ورود" type="submit">
+                                
                             </div>
                         </form>
 
